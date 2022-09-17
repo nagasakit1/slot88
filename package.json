@@ -1,0 +1,27 @@
+{
+  "name": "slot88-situs-slot",
+  "theme": "ui",
+  "version": "1.0.9",
+  "description": "Slot88 adalah agen judi online dan situs judi slot gacor online terpercaya indonesia melayani daftar judi slot88 online, pragmatic play deposit via pulsa.",
+  "keywords": [
+    "pulsa777",
+    "slot deposit pulsa",
+    "slot pulsa 10rb",
+    "situs dana via pulsa 5000",
+    "situs slot tanpa potongan",
+    "slot gacor hari ini",
+    "slot online deposit pulsa",
+    "slot Online deposit pulsa Tanpa potongan",
+    "agen slot deposit pulsa",
+    "slot deposit via pulsa",
+    "link slot Online",
+    "link slot Gacor Terpercaya",
+    "slot Gacor Hari Ini",
+    "slot Online Via Dana"
+  ],
+  "repository": "https://github.com/nagasakit1/slot88.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.1.0 <2.0.0"
+  }
+}
